@@ -6,7 +6,6 @@ import numpy
 # the standard input according to the problem statement.
 
 
-########################### WORKING SOLUTION NEED TO CLEAN THE CODE #################################################
 
 #return true if a gateway is in the nodes on the path 
 def isgatewayonthepath(node,gateway_list):
